@@ -98,8 +98,8 @@ pip install matplotlib pycryptodome
 ### Step 3: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/Vedagayathri-Kanteti/cryptographyproject
+cd cryptographyproject
 ```
 
 Replace the placeholders with your actual GitHub repository URL and folder name.
