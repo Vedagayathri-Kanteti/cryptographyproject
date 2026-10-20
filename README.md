@@ -155,11 +155,3 @@ The relative security scores in the program are predefined illustrative values, 
 This project demonstrates the implementation and comparison of the Playfair Cipher and DES using Python. It evaluates their basic encryption behavior, performance, and selected characteristics through numerical measurements and graphs.
 
 The project provides a practical introduction to cryptographic algorithms and highlights why classical ciphers and outdated encryption standards should not be used to protect sensitive information.
-
-## Author
-
-**Name:** Add your name here.
-
-## License
-
-Add a license if you intend to publish or redistribute this project.
