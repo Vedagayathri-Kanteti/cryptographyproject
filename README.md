@@ -102,8 +102,6 @@ git clone https://github.com/Vedagayathri-Kanteti/cryptographyproject
 cd cryptographyproject
 ```
 
-Replace the placeholders with your actual GitHub repository URL and folder name.
-
 ### Step 4: Run the Program
 
 ```bash
@@ -115,7 +113,7 @@ The program uses predefined sample messages and keys, so interactive input is no
 ## Project Structure
 
 ```text
-Playfair-DES-Comparison/
+cryptographyproject/
 ├── cryptoproject.py
 └── README.md
 ```
