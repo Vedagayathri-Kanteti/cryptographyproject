@@ -500,25 +500,13 @@ print()
 print("==========================================")
 print("             FINAL ANALYSIS")
 print("==========================================")
-print("""
-Playfair is a classical symmetric cipher.
-
-It uses a 5 x 5 matrix and encrypts
-two letters at a time.
-
-DES is a symmetric block cipher.
-
-DES uses 64-bit blocks and has an
-effective key size of 56 bits.
-
-Both algorithms have approximately
-O(n) time complexity with respect
-to the input size.
-
-The actual encryption time depends
-on the computer and the input size.
-
-Playfair provides very weak security.
-
-DES is stronger than Playfair
+print("""\nPlayfair is a classical symmetric cipher.
+\nIt uses a 5 x 5 matrix and encrypts two letters at a time. 
+\nDES is a symmetric block cipher.
+\nDES uses 64-bit blocks and has an effective key size of 56 bits.
+\nBoth algorithms have approximately O(n) time complexity with respect to the input size.
+\nThe actual encryption time depends on the computer and the input size.
+\nPlayfair provides very weak security. 
+\nDES is stronger than Playfair
+\nK.Vedagayathri - AV.SC.U4CSE24201\nK.Harshitha - AV.SC.U4CSE24208\nM.Harsha Vardhini - AV.SC.U4CSE24225
 """)
